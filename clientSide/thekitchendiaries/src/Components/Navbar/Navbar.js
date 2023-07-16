@@ -12,7 +12,7 @@ function Navbar(){
                             <div className="firstContainer">
                                 <img src="Resources/logo.png" alt="" className="image"/>
                                 <input type="text" className="searchbar" placeholder="Search here"/>
-                                <img src="Resources/searchbar1.png" alt="" className="search"/>
+                                <img src="Resources/wrong1.png" alt="" className="search"/>
                                 <img src="Resources/loginLogo.jpeg" alt="" className="loginlogo"/>
                             </div>
                             <div className="secondContainer">

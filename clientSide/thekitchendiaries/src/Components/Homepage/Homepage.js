@@ -4,9 +4,6 @@ function Homepage(){
     return( 
         <div>
             <div className="home">
-                
-               
-
                 <div class="homeImage">
                     <img src="Resources/indian-dhal.jpg" alt="" className="imageforhome"/>
                     <div className="textpart">
@@ -213,7 +210,7 @@ function Homepage(){
     
                
             </div>
-            </div>
+        </div>
     )
 };
 export default Homepage
