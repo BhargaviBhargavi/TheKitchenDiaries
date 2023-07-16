@@ -1,0 +1,211 @@
+.image
+{
+    width:50px;
+    height:50px;
+    border-radius: 40px;
+    margin: 6px 0px 5px 200px;
+}
+.nav{
+    background-color:rgb(220, 164, 11);
+    width:100%;
+    position: fixed;
+    top:0;
+    left:0;
+}
+
+.navbar{
+   
+    border:1px solid black;
+}
+
+.topics{
+    margin-left:35px;
+    font-size: 17px;
+    margin-bottom:10px;
+}
+.searchbar{
+    width:187px;
+    height:30px;
+    margin-left:700px;
+    margin-top: 15px;
+    border: none;
+    margin-bottom: 10px;
+}
+.firstContainer{
+    display: flex;
+}
+.secondContainer{
+    display: flex;
+}
+.search{
+    width:35px;
+    height: 32px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.loginlogo{
+    width:50px;
+    height:50px;
+    border-radius:25px;
+    margin-top:6px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.dropbtn {
+    color: rgb(7, 7, 7);
+    font-size: 17px;
+    border: none;
+    background: none;
+    margin-left:35px;
+    margin-bottom:10px;
+
+}
+.homepg{
+    margin-left:200px;
+    margin-bottom:10px;
+    font-size: 17px;
+    color:black;
+    border-bottom: none;
+}
+.drop{
+    color: rgb(7, 7, 7);
+    font-size: 17px;
+    border: none;
+    background: none;
+    margin-left: 38px;
+    margin-bottom:10px;
+
+
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+} 
+  
+.dropdown-content {
+    display: none;
+    position: absolute; 
+    background-color: #f1f1f1; 
+    min-width: 160px; 
+    margin-left: 40px;
+}
+.dropdownContent {
+    display: none;
+    position: absolute; 
+    background-color: #f1f1f1; 
+    min-width: 160px; 
+    margin-left: 40px;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block; 
+    font-size: 15px;
+     
+     
+  }
+.dropdownContent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block; 
+    font-size: 15px;
+     
+     
+}
+  
+  
+   .dropdown-content a:hover {background-color: #ddd;} 
+   .dropdownContent a:hover {background-color: #ddd}
+   .dropdown:hover .dropdown-content {display: block;} 
+   .dropdown:hover .dropdownContent  {display: block;}
+  
+  
+.homeImage{
+    display:flex;
+}
+.imageforhome{
+    
+    width: 705px;
+    height: 600px;
+    margin-top: 133px;
+    margin-left: 200px;
+} 
+.textpart{
+    
+    width:260px;
+    height:440px;
+    background-color: rgba(224, 219, 219, 0.418);
+    margin-top:190px;
+    margin-left:50px;
+    padding:20px;
+    line-height: 40px;
+}
+p{
+    font-size: 20px;
+    color:rgb(84, 82, 82)
+    
+}
+.button{
+    width:150px;
+    padding:10px;
+    font-size: 20px;
+    background-color: rgb(255, 123, 0);
+    margin:15px 0px 0px 50px  ;
+}
+
+.specialfood{
+    display: flex;
+    margin-left: 200px;
+}
+.specialFood{
+    display: flex;
+    margin-left: 200px;
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.allrecipes{
+    display: flex;
+    margin-left: 200px;
+}
+.allRecipes{
+    display: flex;
+    margin-left: 200px;
+}
+.TrendingNow{
+    display: flex;
+    margin-left: 200px;
+}
+.Trendingnow{
+    display: flex;
+    margin-left: 200px;
+}
+
+.specialRecipe{
+    width:300px;
+    height: 300px;
+    margin-right: 78px;
+}
+.foodName{
+    font-size: 25px;
+    line-height: 30px;
+}
+.line{
+    color:rgb(84, 82, 82);
+    line-height: 40px;
+    font-size: 18px;
+}
+.star{
+    width:25px;
+    height: 25px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
