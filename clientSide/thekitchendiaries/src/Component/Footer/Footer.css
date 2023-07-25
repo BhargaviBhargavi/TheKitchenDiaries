@@ -3,7 +3,6 @@
     height:50%;
     background-color:rgb(220, 164, 11);
     margin-top: 70px;
-    /* margin-bottom: 50px; */
     display: flex;
 }
 .footerimage{
@@ -16,8 +15,7 @@
 .logopart{
     width:250px;
     height: 200px;
-    margin-left: 250px;
-    margin-bottom: 30px;
+    margin:0px 0px 30px 250px;
 }
 .sign{
     width: 150px;
@@ -26,15 +24,15 @@
     
 }
 .listpart{
-    margin-top: 58px;
-    margin-left: 200px;
+    margin: 58px 0px 0px 200px;
+    
 }
 .types{
     margin-bottom: 20px;
 }
 .listparts{
-    margin-top: 68px;
-    margin-left: 200px;
+    margin: 68px 0px 0px 200px;
+    
 }
 .border{
     width: 99.89%;
@@ -55,8 +53,7 @@
 .followImg{
     width: 50px;
     height: 50px;
-    margin-left: 50px;
-    margin-bottom: 20px;
+    margin:0px 0px 20px 50px;
     border-radius: 60px;
 }
 

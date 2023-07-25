@@ -1,10 +1,12 @@
+import React from "react";
+import Routing from "./Component/Routes/Routes";
 
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-          welocome to the kitchenDiaries <h2>Bhargavi</h2>
+          <Routing />
+          
     </div>
   );
 }
